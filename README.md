@@ -1,0 +1,2 @@
+# minirest
+small REST example

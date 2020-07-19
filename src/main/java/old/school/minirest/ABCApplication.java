@@ -1,4 +1,4 @@
-package org.asmus.minirest;
+package old.school.minirest;
 
 import java.util.HashSet;
 import java.util.Set;

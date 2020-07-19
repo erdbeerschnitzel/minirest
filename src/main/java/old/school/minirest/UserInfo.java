@@ -1,4 +1,4 @@
-package org.asmus.minirest;
+package old.school.minirest;
 
 import java.util.ArrayList;
 import java.util.List;

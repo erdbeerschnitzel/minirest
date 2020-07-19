@@ -1,4 +1,4 @@
-package org.asmus.minirest;
+package old.school.minirest;
 
 import javax.enterprise.context.RequestScoped;
 import javax.inject.Named;

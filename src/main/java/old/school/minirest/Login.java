@@ -1,4 +1,4 @@
-package org.asmus.minirest;
+package old.school.minirest;
 
 import javax.ejb.Stateless;
 import javax.servlet.http.HttpServletRequest;
